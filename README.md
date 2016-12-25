@@ -12,3 +12,6 @@ https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg
 
 http://webschool.io
 
+http://kazale.com/curso-basico-angular-2/
+
+
